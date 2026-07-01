@@ -2,6 +2,9 @@
 
 This is a site that i made which shows the projects and things that i made 
 
+<img width="941" height="432" alt="image" src="https://github.com/user-attachments/assets/e81d0930-f60d-4f3e-8d41-2f013a4d1257" />
+
+
 ## this has
 
 Projects
